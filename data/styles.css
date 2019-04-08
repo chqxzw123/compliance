@@ -48,18 +48,34 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 ._文本段落 {
   text-align:left;
 }
 ._流程形状 {
 }
-._连接线 {
+.box_1 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.icon {
+}
+.box_2 {
 }
 .line {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.ellipse {
+}
+.button {
+}
+.checkbox {
+  text-align:left;
+}
+.box_3 {
 }
 .text_field {
   color:#000000;
@@ -67,25 +83,20 @@
 }
 .table_cell {
 }
-.box_1 {
-}
-.box_3 {
-}
-.flow_shape {
-}
-.icon {
-}
-.box_2 {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.checkbox {
+.droplist {
+  color:#000000;
   text-align:left;
 }
-.button {
+._图片 {
+}
+.radio_button {
+  text-align:left;
 }
 .placeholder {
 }
-.ellipse {
+.flow_shape {
+}
+._连接线 {
+}
+._表格 {
 }
